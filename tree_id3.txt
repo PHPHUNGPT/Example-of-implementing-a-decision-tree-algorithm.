@@ -1,0 +1,1 @@
+{'petal_length': {'<= 2.45': 'Iris-setosa', '> 2.45': {'petal_width': {'<= 1.65': {'sepal_length': {'<= 5.95': 'Iris-versicolor', '> 5.95': {'sepal_width': {'<= 3.05': 'Iris-versicolor', '> 3.05': 'Iris-versicolor'}}}}, '> 1.65': 'Iris-virginica'}}}}
